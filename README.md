@@ -38,5 +38,5 @@
 ---
 
 ### 📬 Contacto
-* **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com)
-* **Correo:** tu-email@ejemplo.com
+* **LinkedIn:** [linkedin.com/in/tu-usuario](www.linkedin.com/in/cristiandiazdeiazdev)
+* **Correo:** ceduar017@gmail.com
